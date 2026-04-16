@@ -3,9 +3,8 @@
             <div class="container">
                 <div class="row gy-4">
                     <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
-                        <h1 data-aos="fade-up">We offer modern solutions for growing your business</h1>
-                        <p data-aos="fade-up" data-aos-delay="100">We are team of talented designers making websites
-                            with RPL</p>
+                        <h1 data-aos="fade-up">Automate your document workflow with an adaptive multi-form engine</h1>
+                        <p data-aos="fade-up" data-aos-delay="100">Transform complex data into professional documents instantly through a seamless, dynamic form-building experience.</p>
                         <div class="d-flex flex-column flex-md-row" data-aos="fade-up" data-aos-delay="200">
                         </div>
                     </div>

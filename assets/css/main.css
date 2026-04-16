@@ -155,8 +155,12 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 36px;
-  margin-right: 8px;
+  height: 45px !important;
+  max-height: 50px !important; 
+  width: auto;
+  margin-right: 12px;
+  display: inline-block;
+    vertical-align: middle;
 }
 
 .header .logo h1 {

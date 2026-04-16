@@ -2,8 +2,9 @@
 
 
         <div class="container text-center mt-4">
-            <p>© <span>Copyright</span> <strong class="px-1 sitename">Symphony</strong> <span>2025. All Rights
+            <p>©<span>Copyright</span> <strong class="px-1 sitename"><a href="https://github.com/Sofyaninsomnia">SofyanInsomnia</a></strong> <span><?= date('Y') ?>. All Rights
                     Reserved</span></p>
+            <div class="credits"><span>Need Help? <a href="https://github.com/Sofyaninsomnia/document">Read Me</a></span></div>
         </div>
 
     </footer>

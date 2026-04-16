@@ -1,5 +1,8 @@
 ###################
-What is CodeIgniter
+<div align="center">
+    <img src="<?= base_url();?>assets/img/logo.svg" alt="" />
+    <h2>Dynamic Document Generator - DDG</h2>
+</div>
 ###################
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
