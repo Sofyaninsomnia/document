@@ -1,74 +1,28 @@
-###################
 <div align="center">
-    <img src="<?= base_url();?>assets/img/logo.svg" alt="" />
-    <h2>Dynamic Document Generator - DDG</h2>
+    <img src="https://raw.githubusercontent.com/username/repo/main/assets/img/logo.svg" alt="Logo" width="120" />
+    <h1>🚀 Dynamic Document Generator (DDG)</h1>
+    <p align="center">
+        <img src="https://img.shields.io/badge/CodeIgniter-v3.1.x-red?style=for-the-badge&logo=codeigniter" alt="CI3">
+        <img src="https://img.shields.io/badge/jQuery-v3.6.0-blue?style=for-the-badge&logo=jquery" alt="jQuery">
+        <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
+    </p>
+    <p><b>Solusi otomatisasi dokumen dengan sistem multi-form upload yang dinamis dan responsif.</b></p>
 </div>
-###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+---
 
-*******************
-Release Information
-*******************
+### 📝 Tentang Proyek
+Proyek ini lahir dari kebutuhan akan sistem pembuatan dokumen yang fleksibel. Dengan memanfaatkan kekuatan **jQuery** untuk manipulasi DOM secara *real-time*, pengguna dapat menambahkan baris data melalui sistem *multi-form upload* tanpa perlu memuat ulang halaman. Di balik layar, **CodeIgniter 3** bekerja sebagai mesin pemroses yang tangguh, memastikan validasi data terjaga sebelum akhirnya diolah menjadi dokumen profesional.
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+### ✨ Fitur Unggulan
+* 🔄 **Dynamic Form Builder** - Tambah/hapus input field secara instan dengan jQuery.
+* 📂 **Multi-Form Upload** - Mendukung unggahan banyak dokumen dalam satu sesi.
+* ⚡ **AJAX Powered** - Pengalaman pengguna yang mulus tanpa *page refresh*.
+* 📱 **Responsive UI** - Antarmuka yang tetap rapi diakses dari perangkat mobile.
+* 📑 **Auto-Generate** - Konversi data input langsung menjadi format dokumen siap pakai.
 
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/userguide3/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Contributing Guide <https://github.com/bcit-ci/CodeIgniter/blob/develop/contributing.md>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+### 🛠️ Tech Stack
+* **Backend:** PHP 8.1+ (CodeIgniter 3.1.x)
+* **Frontend:** jQuery, Bootstrap 5
+* **Database:** MySQL
+* **Library:** Dynamic Form JS
