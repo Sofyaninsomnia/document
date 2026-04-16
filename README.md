@@ -27,9 +27,9 @@ Di balik layar, **CodeIgniter 3** bekerja sebagai mesin pemroses yang tangguh, m
 * 📑 **Auto-Generate** - Konversi data input langsung menjadi format dokumen siap pakai.
 
 ### 🛠️ Tech Stack
-* **Backend:** PHP 7.4+ (CodeIgniter 3.1.x)
-* **Frontend:** jQuery, Bootstrap 4
-* **Database:** MySQL / MariaDB
+* **Backend:** PHP 8.1+ (CodeIgniter 3.1.x)
+* **Frontend:** jQuery, Bootstrap 5
+* **Database:** MySQL
 
 ---
 
